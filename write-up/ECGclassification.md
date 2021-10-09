@@ -10,6 +10,8 @@ We develop a method for classifying heartbeat as normal or one of four irregular
 
 ### What is the state of the art?
 
+**Articles**
+
 * ECG heart beat classification method based on modified ABC algorithm
   * Selim Dilmac and Mehmet Korurek
   * Applied Soft Computing (Elsevier)
@@ -37,6 +39,8 @@ We develop a method for classifying heartbeat as normal or one of four irregular
 ![Various Wavelets](wavelets.png)
 
 ### Where else are wavelet decompositions used?
+
+**Articles**
 
 * Detection of QRS complexes (central portion of the beat)
   * Combining Algorithms in Automatic Detection of QRS Complexes in ECG Signals
