@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Data files and model files (ignored to keep size reasonable)
+**/*.csv    # Raw data from MITBIH
+**/*.dat    # Files that contain interpolated wavelet decompositions
+**/*.cls    # Files that list the classification of each heartbeat
+**/*.model  # Trained neural network files. These are produced by neuralnettrainer.py and used by NN_run.py and collate_results.py.
+
 # Distribution / packaging
 .Python
 build/
