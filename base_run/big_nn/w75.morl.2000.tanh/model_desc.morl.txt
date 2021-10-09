@@ -1,0 +1,1 @@
+NN.000.model (2000, tanh, 1e-05) - train, test score: 	 0.99766 - 0.99735 	 in 8040.85 s

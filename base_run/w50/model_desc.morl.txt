@@ -1,0 +1,40 @@
+NN.040.model (100, relu, 1e-05) - train, test score: 	 0.99676 - 0.99712 	 in 506.46 s
+NN.041.model (100, relu, 0.0001) - train, test score: 	 0.99742 - 0.99740 	 in 656.14 s
+NN.042.model (100, relu, 0.01) - train, test score: 	 0.98983 - 0.99059 	 in 399.14 s
+NN.043.model (100, relu, 0.1) - train, test score: 	 0.97805 - 0.97807 	 in 407.02 s
+NN.044.model (100, tanh, 1e-05) - train, test score: 	 0.99818 - 0.99831 	 in 568.32 s
+NN.045.model (100, tanh, 0.0001) - train, test score: 	 0.99815 - 0.99817 	 in 429.25 s
+NN.046.model (100, tanh, 0.01) - train, test score: 	 0.99173 - 0.99228 	 in 410.28 s
+NN.047.model (100, tanh, 0.1) - train, test score: 	 0.97635 - 0.97666 	 in 287.93 s
+NN.048.model ((16, 16), relu, 1e-05) - train, test score: 	 0.98511 - 0.98525 	 in 143.91 s
+NN.049.model ((16, 16), relu, 0.0001) - train, test score: 	 0.98747 - 0.98844 	 in 232.33 s
+NN.050.model ((16, 16), relu, 0.01) - train, test score: 	 0.98438 - 0.98506 	 in 186.13 s
+NN.051.model ((16, 16), relu, 0.1) - train, test score: 	 0.97812 - 0.97858 	 in 121.53 s
+NN.052.model ((16, 16), tanh, 1e-05) - train, test score: 	 0.98729 - 0.98780 	 in 242.84 s
+NN.053.model ((16, 16), tanh, 0.0001) - train, test score: 	 0.98915 - 0.98959 	 in 224.52 s
+NN.054.model ((16, 16), tanh, 0.01) - train, test score: 	 0.98395 - 0.98465 	 in 208.89 s
+NN.055.model ((16, 16), tanh, 0.1) - train, test score: 	 0.97623 - 0.97638 	 in 137.95 s
+NN.056.model ((100, 16), relu, 1e-05) - train, test score: 	 0.99817 - 0.99826 	 in 684.12 s
+NN.057.model ((100, 16), relu, 0.0001) - train, test score: 	 0.99672 - 0.99644 	 in 468.37 s
+NN.058.model ((100, 16), relu, 0.01) - train, test score: 	 0.99203 - 0.99269 	 in 458.03 s
+NN.059.model ((100, 16), relu, 0.1) - train, test score: 	 0.98254 - 0.98255 	 in 548.08 s
+NN.060.model ((100, 16), tanh, 1e-05) - train, test score: 	 0.99861 - 0.99868 	 in 556.71 s
+NN.061.model ((100, 16), tanh, 0.0001) - train, test score: 	 0.99796 - 0.99808 	 in 342.72 s
+NN.062.model ((100, 16), tanh, 0.01) - train, test score: 	 0.99453 - 0.99493 	 in 441.54 s
+NN.063.model ((100, 16), tanh, 0.1) - train, test score: 	 0.98198 - 0.98305 	 in 259.22 s
+NN.064.model ((50, 32), relu, 1e-05) - train, test score: 	 0.99643 - 0.99653 	 in 339.12 s
+NN.065.model ((50, 32), relu, 0.0001) - train, test score: 	 0.99449 - 0.99438 	 in 308.87 s
+NN.066.model ((50, 32), relu, 0.01) - train, test score: 	 0.98986 - 0.99004 	 in 206.86 s
+NN.067.model ((50, 32), relu, 0.1) - train, test score: 	 0.97892 - 0.97944 	 in 234.61 s
+NN.068.model ((50, 32), tanh, 1e-05) - train, test score: 	 0.99794 - 0.99785 	 in 510.70 s
+NN.069.model ((50, 32), tanh, 0.0001) - train, test score: 	 0.99799 - 0.99831 	 in 336.65 s
+NN.070.model ((50, 32), tanh, 0.01) - train, test score: 	 0.99121 - 0.99160 	 in 295.93 s
+NN.071.model ((50, 32), tanh, 0.1) - train, test score: 	 0.98070 - 0.98155 	 in 216.88 s
+NN.072.model ((50, 32, 4), relu, 1e-05) - train, test score: 	 0.99585 - 0.99598 	 in 332.47 s
+NN.073.model ((50, 32, 4), relu, 0.0001) - train, test score: 	 0.99624 - 0.99648 	 in 307.52 s
+NN.074.model ((50, 32, 4), relu, 0.01) - train, test score: 	 0.99221 - 0.99219 	 in 267.40 s
+NN.075.model ((50, 32, 4), relu, 0.1) - train, test score: 	 0.98340 - 0.98324 	 in 175.61 s
+NN.076.model ((50, 32, 4), tanh, 1e-05) - train, test score: 	 0.99606 - 0.99593 	 in 384.72 s
+NN.077.model ((50, 32, 4), tanh, 0.0001) - train, test score: 	 0.99676 - 0.99721 	 in 275.32 s
+NN.078.model ((50, 32, 4), tanh, 0.01) - train, test score: 	 0.99346 - 0.99338 	 in 280.11 s
+NN.079.model ((50, 32, 4), tanh, 0.1) - train, test score: 	 0.98271 - 0.98324 	 in 169.71 s

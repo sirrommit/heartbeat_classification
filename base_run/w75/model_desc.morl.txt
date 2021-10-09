@@ -1,0 +1,24 @@
+NN.024.model (100, relu, 1e-05) - train, test score: 	 0.99669 - 0.99648 	 in 791.37 s
+NN.025.model (100, relu, 0.0001) - train, test score: 	 0.99555 - 0.99498 	 in 456.63 s
+NN.026.model (100, relu, 0.01) - train, test score: 	 0.98703 - 0.98515 	 in 558.74 s
+NN.027.model (100, tanh, 1e-05) - train, test score: 	 0.99784 - 0.99767 	 in 531.80 s
+NN.028.model (100, tanh, 0.0001) - train, test score: 	 0.99826 - 0.99822 	 in 623.01 s
+NN.029.model (100, tanh, 0.01) - train, test score: 	 0.99158 - 0.99082 	 in 619.95 s
+NN.030.model ((100, 16), relu, 1e-05) - train, test score: 	 0.99619 - 0.99653 	 in 663.77 s
+NN.031.model ((100, 16), relu, 0.0001) - train, test score: 	 0.99710 - 0.99753 	 in 586.12 s
+NN.032.model ((100, 16), relu, 0.01) - train, test score: 	 0.98977 - 0.98895 	 in 423.77 s
+NN.033.model ((100, 16), tanh, 1e-05) - train, test score: 	 0.99791 - 0.99790 	 in 468.24 s
+NN.034.model ((100, 16), tanh, 0.0001) - train, test score: 	 0.99698 - 0.99607 	 in 409.10 s
+NN.035.model ((100, 16), tanh, 0.01) - train, test score: 	 0.99215 - 0.99128 	 in 440.54 s
+NN.036.model ((50, 32), relu, 1e-05) - train, test score: 	 0.99623 - 0.99630 	 in 414.39 s
+NN.037.model ((50, 32), relu, 0.0001) - train, test score: 	 0.99633 - 0.99625 	 in 387.42 s
+NN.038.model ((50, 32), relu, 0.01) - train, test score: 	 0.99149 - 0.99068 	 in 351.11 s
+NN.039.model ((50, 32), tanh, 1e-05) - train, test score: 	 0.99689 - 0.99699 	 in 363.41 s
+NN.040.model ((50, 32), tanh, 0.0001) - train, test score: 	 0.99673 - 0.99644 	 in 350.80 s
+NN.041.model ((50, 32), tanh, 0.01) - train, test score: 	 0.99235 - 0.99132 	 in 351.28 s
+NN.042.model ((50, 32, 4), relu, 1e-05) - train, test score: 	 0.99407 - 0.99383 	 in 397.11 s
+NN.043.model ((50, 32, 4), relu, 0.0001) - train, test score: 	 0.99574 - 0.99516 	 in 459.83 s
+NN.044.model ((50, 32, 4), relu, 0.01) - train, test score: 	 0.99205 - 0.99169 	 in 562.92 s
+NN.045.model ((50, 32, 4), tanh, 1e-05) - train, test score: 	 0.99676 - 0.99653 	 in 414.39 s
+NN.046.model ((50, 32, 4), tanh, 0.0001) - train, test score: 	 0.99545 - 0.99493 	 in 467.63 s
+NN.047.model ((50, 32, 4), tanh, 0.01) - train, test score: 	 0.99005 - 0.99009 	 in 365.63 s

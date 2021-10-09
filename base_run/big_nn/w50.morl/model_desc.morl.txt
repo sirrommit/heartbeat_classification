@@ -1,0 +1,4 @@
+NN.000.model (800, tanh, 1e-05) - train, test score: 	 0.99839 - 0.99831 	 in 2469.02 s
+NN.001.model (400, tanh, 1e-05) - train, test score: 	 0.99885 - 0.99877 	 in 1428.13 s
+NN.002.model ((800, 50), tanh, 1e-05) - train, test score: 	 0.99582 - 0.99644 	 in 1843.06 s
+NN.003.model ((400, 50), tanh, 1e-05) - train, test score: 	 0.99822 - 0.99799 	 in 1539.50 s
