@@ -10,11 +10,48 @@ Why do we care about classifying heartbeats?
 
 What is the state of the art?
 
+* ECG heart beat classification method based on modified ABC algorithm
+  * Selim Dilmac and Mehmet Korurek
+  * Applied Soft Computing (Elsevier)
+  * 2015
+  * Result:
+    * Overall: 99.30% success rate (we get 99.94%)
+    * Balanced numbers of each class: 97.96% (we get 98.97%)
+* Automatic Classification of Heartbeats Using ECG Signals via Higher Order Hidden Markov Model
+  * Ying Liao, Yisha Xiang, and Dongpin Du
+  * IEEE International Conference of Automation Science and Engineering
+  * 2020
+  * Result:
+    * Normal: 100% of 20/60 normal heartbeats tested Normal (2 others also did) (we get 99.99% of 18084)
+    * Overall: 88.33% (we get 99.94%)
+    * Normal vs Abnormal: 92.5% (we get 99.96%)
+
 What is a wavelet decomposition?
+
+* Similar to Fourier transform accept the waves fall off over time.
+* Since the wavelets are not waves, frequency and wavelength are not well defined, so use scale instead.
+  * time series data gets decomposed into a wavelet that is scaled in the time direction to a particular scale.
+  * For each scale used, at each timepoint an intensity (check wording) is assigned.
+* Decomposition of time series data looks like a matrix of intensities where each row corresponds to a different scale and each column corresponds to a different time
 
 ![Various Wavelets](wavelets.png)
 
 Where else are wavelet decompositions used?
+
+* Detection of QRS complexes (central portion of the beat)
+  * Combining Algorithms in Automatic Detection of QRS Complexes in ECG Signals
+    * Carsten Meyer, Jose' Ferna'ndez, and Matthew Harris
+    * IEEE Transactions of Information Technology in Biomedicine
+    * 2006
+  * Efficient automota detection of QRS complexes in ECG signal based on reverse biorthogonal wavelet decomposition and nonlinear filtering
+    * Kholkhal Mourad, Bereski Reguig Fethi
+    * Measurement (Elsevier)
+    * 2016
+* Detecting variation in heartrate
+  * Embedded System Based on an ARM Microcontroller to Analyze Heart Rate Variability in Real Time Using Wavelets
+    * Victor H. Rodriguez, Carlos Medrano, and Inmaculada Plaza
+    * Hindawi: Wireless Communication and Mobile Computing (Wiley)
+    * 2018
 
 ## Method
 
