@@ -71,6 +71,7 @@ After running 350 different combinations of pre-processed data and neural networ
   * A tanh activation function
   * alpha = 1e-05
 * This best run had the following mismatch table:
+
 |	|N	|S	|V	|F	|Q	|
 | ----- | ----- | ----- | ----- | ----- | ----- |
 |N	|18083	|0	|0	|1	|0	|
@@ -94,6 +95,7 @@ Repeating the process 20 times gave an improvement one time. This training model
   * A tanh activation function
   * alpha = 5e-05
 * The following mismatch table:
+
 |	|N	|S	|V	|F	|Q	|
 | ----- | ----- | ----- | ----- | ----- | ----- |
 |N	|18082	|1	|0	|1	|0	|
