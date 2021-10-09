@@ -6,9 +6,9 @@ We develop a method for classifying heartbeat as normal or one of four irregular
 
 ## Background
 
-Why do we care about classifying heartbeats?
+### Why do we care about classifying heartbeats?
 
-What is the state of the art?
+### What is the state of the art?
 
 * ECG heart beat classification method based on modified ABC algorithm
   * Selim Dilmac and Mehmet Korurek
@@ -26,7 +26,7 @@ What is the state of the art?
     * Overall: 88.33% (we get 99.94%)
     * Normal vs Abnormal: 92.5% (we get 99.96%)
 
-What is a wavelet decomposition?
+### What is a wavelet decomposition?
 
 * Similar to Fourier transform accept the waves fall off over time.
 * Since the wavelets are not waves, frequency and wavelength are not well defined, so use scale instead.
@@ -36,7 +36,7 @@ What is a wavelet decomposition?
 
 ![Various Wavelets](wavelets.png)
 
-Where else are wavelet decompositions used?
+### Where else are wavelet decompositions used?
 
 * Detection of QRS complexes (central portion of the beat)
   * Combining Algorithms in Automatic Detection of QRS Complexes in ECG Signals
