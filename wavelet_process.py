@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # wavelet_process.py
 
+# Copyright (c) 2021 Timothy Morris Phd
+
 import sys
 from random import shuffle # Randomly order data in lists
 import numpy as np

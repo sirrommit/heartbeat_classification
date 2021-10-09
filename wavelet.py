@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """ Defines wavelet processing function and allows user exploration with
 wavelets.
+
+
+# Copyright (c) 2021 Timothy Morris Phd
 """
 
 import csv

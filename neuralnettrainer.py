@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """ Train an artificial neural network to classify heartbeats from ECG
 data
+
+Copyright (c) 2021 Timothy Morris Phd
 """
 
 import csv

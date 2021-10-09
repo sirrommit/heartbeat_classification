@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # NN.py
 
+# Copyright (c) 2021 Timothy Morris Phd
+
 import numpy as np # Linear Algebra
 import pywt # wavelets
 import pandas as pd # Data tools

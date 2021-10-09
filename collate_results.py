@@ -1,5 +1,7 @@
 """ Program to check the model description files built through multiple
 directories and collate those results.
+
+Copyright (c) 2021 Timothy Morris Phd
 """
 
 import csv

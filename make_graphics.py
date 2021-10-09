@@ -1,5 +1,7 @@
 """ Program to produce graphics for a write-up of the ECG cardiac
 classification program.
+
+Copyright (c) 2021 Timothy Morris Phd
 """
 
 import csv

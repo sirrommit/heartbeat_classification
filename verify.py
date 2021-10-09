@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 # verify.py
 
+# Copyright (c) 2021 Timothy Morris Phd
+
+# Note: Currently unused: Possible future use is to use the training on a
+# separate data source that has Normal and Abnormal as the only
+# classifications.
+
 import numpy as np # Linear Algebra
 import pywt # wavelets
 import pandas as pd # Data tools
